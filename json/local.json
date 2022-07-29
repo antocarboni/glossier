@@ -1,0 +1,50 @@
+[
+    {
+        "id":"1",
+        "nombre":"Serum Glossier",
+        "precio":7000,
+        "img":"../assets/goto1.jpg",
+        "desc": "" 
+    },
+
+    {
+        "id":"2",
+        "nombre":"Pack de cremas GoTo",
+        "precio":5500,
+        "img":"../assets/goto1.jpg",
+        "desc": "" 
+    },
+
+    {
+        "id":"3",
+        "nombre":"Pads labiales KNC",
+        "precio":800,
+        "img":"../assets/knc1.jpg",
+        "desc": "" 
+    },
+
+    {
+        "id":"4",
+        "nombre":"Mascarillas Magic Stripes",
+        "precio":3000,
+        "img":"../assets/magicstripes1.jpg",
+        "desc": "" 
+    },
+
+    {
+        "id":"5",
+        "nombre":"Set skincare Sturm",
+        "precio":12000,
+        "img":"../assets/sturm.jpg",
+        "desc": "" 
+    },
+
+    {
+        "id":"6",
+        "nombre":"Serum hipoalergenico The Ordinary",
+        "precio":8000,
+        "img":"../assets/tobuy.jpg",
+        "desc": "" 
+    }
+    
+]
